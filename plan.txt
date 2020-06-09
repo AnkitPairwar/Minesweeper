@@ -1,1 +1,8 @@
-git add  .
+Plan:
+
+1.Django part needs to be done first.
+2. React part needs to be done afterwards.
+React(Frontend Part):
+Components:
+
+
